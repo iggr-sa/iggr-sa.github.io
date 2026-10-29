@@ -1,0 +1,372 @@
+<html>
+<head>
+<title>tech</title>
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1251">
+<link rel="stylesheet" href="../common/igeth.css" type="text/css">
+<link href="/tech/tech.htm" rel="0" rev="0" >
+<link href="/tech/tech.htm">
+</head>
+
+
+<body bgcolor="#FFFFFF" text="#000000" >
+<table border="0" cellspacing="2" cellpadding="2" name="spectrometers" width="600">
+  <tr> 
+    <td align="left" valign="top" bgcolor="#FFFFFF" nowrap> 
+      <p><span class="igtext">Jump down to</span> <dfn><span class="igsmall"><a name="tech"></a></span></dfn><span class="igsmall"><a href="#spectrometers" class="iglink">| 
+        Spectrometers | </a><a href="#mw" class="iglink">MW</a><a href="#electronics" class="iglink"> 
+        | Electronics | </a><a href="#programming" class="iglink">Programming</a></span></p>
+    </td>
+    <td align="left" valign="top">&nbsp;</td>
+  </tr>
+  <tr> 
+    <td colspan="2"></td>
+  </tr>
+  <tr> 
+    <td class="igtext" colspan="2"> 
+      <hr>
+    </td>
+  </tr>
+  <tr> 
+    <td class="igtext" colspan="2" bgcolor="#B7F2FD">Here it is a list of the 
+      pulse EPR spectrometers built/modified or maintained by me</td>
+  </tr>
+  <tr> 
+    <td class="igtext" colspan="2"><span class="igheader"><a name="xband2e"></a> 
+      X-band2 </span><span class="igsmall">(ETH, 2001-up to now)</span></td>
+  </tr>
+  <tr> 
+    <td class="igtext" valign="top" align="center" colspan="2"> 
+      <p class="igsmall" align="left"><a href="spectrometers/2pfs.avi"><img src="spectrometers/2pecho.jpg" width="250" height="188" align="left" border="0"></a>This 
+        is a recently renovated copy of the most famous ETH's pulse X-band spectrometer 
+        known as X-band1 here. A lot of pulse experiments have been introduced 
+        using it in 90th last century. See T. Waker PhD thesis for technical details. 
+        Currently Xband2 is used to test <a href="#sys2">new measuring system</a> 
+        and its component as well as to make experiments. As example the picture 
+        shows two-pulse echo, off-resonance, measured with AP200 averager (Acqiris) 
+        under <a href="http://www.esr.ethz.ch/specman/main.html">SpecMan</a> control. 
+        Click on it to see a short <a href="spectrometers/2pfs.avi">movie</a> 
+        about echo behavior vs magnetic field:). 3.10.03</p>
+      <p class="igsmall" align="left"><a href="#tech">back</a></p>
+    </td>
+  </tr>
+  <tr> 
+    <td class="igtext" colspan="2"> 
+      <hr>
+    </td>
+  </tr>
+  <tr> 
+    <td class="igtext" align="left" colspan="2"><a name="qbande"></a> <span class="igheader">Q-band 
+      </span><span class="igsmall">(ETH, 1998-2002)</span><span class="igheader"> 
+      </span></td>
+  </tr>
+  <tr> 
+    <td class="igtext" colspan="2"> 
+      <p align="left"><img src="spectrometers/qbande99_0ss.jpg" width="247" height="162" alt="0" hspace="5" vspace="5"><img src="spectrometers/qbande99_1ss.jpg" width="223" height="162" vspace="5" hspace="5"></p>
+      <p align="left"><span class="igsmall">I invested a lot of time first to 
+        get this spectrometer working , then to teach users how to deal with it 
+        and finally to keep the spectrometer alive. I still do some upgrade here 
+        (ER036 FTNMR gaussmeter has been implemented recently, thanks to Stefan 
+        Stoll) but not so much as before. The spectrometer has 100 W of mw power 
+        at 35 GHz, good acquisition system (E580 , Bruker, thanks to Peter Hofer 
+        who gave us opportunity to be first who implemented such a system on home-made 
+        spectrometer) and it is equipped with state-of-art mw components. The 
+        photos are taken in 2001. General layout and top view of the mw bridge. 
+        The most components, except isolators :), made using fin-line technology. 
+        Some details can be found <a href="../papers/mypapers/grom01_2.pdf">here</a> 
+        . To see user guide with more detailed scheme click <a href="../man/qe580_0900.pdf"> 
+        here</a>. 3.10.03</span></p>
+      <p class="igsmall"><span class="igsmall"><a href="#tech">back</a></span></p>
+    </td>
+  </tr>
+  <tr> 
+    <td class="igtext" colspan="2"> 
+      <hr>
+    </td>
+  </tr>
+  <tr> 
+    <td class="igtext" colspan="2"> 
+      <p><a name="wbandw"></a> <span class="igheader">W-band </span><span class="igsmall">(WIS, 
+        1998)</span></p>
+      <table border="0" cellspacing="20" cellpadding="0" align="left" width="409">
+        <tr> 
+          <td><img src="spectrometers/wbandw98_0s.jpg" width="257" height="170"></td>
+          <td><img src="spectrometers/wbandw98_1s.jpg" width="103" height="170"></td>
+        </tr>
+      </table>
+      <p class="igsmall">I really enjoy a time in the lab of Daniella Goldfarb, 
+        including the time to assemble and run W-band spectrometer. The mw bridge 
+        ( <a href="http://www.elva-1.com/products/equipment/epr.html">http://www.elva-1.com</a>) 
+        and the probe-head are from V.Krymov. For further details look <a href="http://www.weizmann.ac.il/chemphys/EPR_group/wband.html">here</a> 
+        or<a href="../papers/mypapers/grom99_1.pdf"> there</a>. 3.10.03</p>
+      <p>&nbsp;</p>
+      <p>&nbsp;</p>
+      <p><a href="#tech" class="igsmall">back</a></p>
+    </td>
+  </tr>
+  <tr> 
+    <td class="igtext" colspan="2"> 
+      <hr>
+    </td>
+  </tr>
+  <tr> 
+    <td class="igtext" colspan="2"> 
+      <p><a name="xbandw"></a><span class="igheader">X-band </span><span class="igsmall">(WIS, 
+        1997)</span></p>
+      <img src="spectrometers/xbandw97.jpg" width="246" height="172" border="0" align="left"> 
+      <p><span class="igsmall">Here my job was to teach students how to do ENDOR 
+        on X-band. And I did a lot of ENDOR experiments myself too! Some examples, 
+        as well as spectrometer description you can find <a href="../papers/mypapers/grom98.pdf">here</a>. 
+        3.10.03 </span></p>
+      <p> <span class="igsmall"><a href="#tech">back</a></span></p>
+    </td>
+  </tr>
+  <tr> 
+    <td class="igtext" colspan="2"> 
+      <hr>
+    </td>
+  </tr>
+  <tr> 
+    <td class="igtext" colspan="2"> 
+      <p class="igheader"><a name="qbandk"></a>Q-band <span class="igsmall">(KSU, 
+        1990-1996)</span></p>
+      <table border="0" cellspacing="20" cellpadding="0" align="left">
+        <tr> 
+          <td><img src="spectrometers/qbandk94ss.jpg" width="247" height="169"></td>
+        </tr>
+      </table>
+      <p class="igsmall">My first spectrometer was a 35 GHz pulse EPR apparatus. 
+        Homemade in full sense of this word:). It means that I'm not only assembled 
+        the mw components which we buy or got for free from colleagues but also 
+        it was necessary to fix some of these components and built all analog 
+        control circuits of the pulse bridge as well as construct whole PC controlled 
+        <a href="#sysksu">measuring system</a>. The spectrometer was made using 
+        solid state mw components only. No klystrons, no tubes. It has three (!) 
+        mw sources, two are service 50 mW cw Gunn oscillators and third one is 
+        pulsed IMPATT oscillator based on two silicon double drift diodes. The 
+        frequency of the first Gunn was voltage controlled (varactor) and this 
+        source was used for a probe-head tuning. The second Gunn is one of most 
+        stable free running mw sources (no DR, no external thermostabilization, 
+        only a diode camera , stabilizing cavity and isolator) I ever seen. It 
+        was used for cw (in absorption mode!) and saturation recovery measurements. 
+        The key component is the pulsed IMPATT. It was designed by top level artist(s) 
+        in microwave engineering. Two diodes ( p-p+-n+-n ) were fixed in coaxial 
+        lines and then placed at certain positions in a section of WR28 waveguide. 
+        By proper adjustment of the diode positions and an amplitude and a shape 
+        of the current pulses applied to the diodes I was able to reach 2 W power 
+        with the negligible frequency chirp. There are many others beautiful components 
+        inside, some details are mentioned <a href="../papers/mypapers/grom92.pdf">there</a>. 
+        Rafail (left bottom) and Yurii (probably making this photo) built even 
+        a loop-gap resonator for 35 GHz.. 3.10.03</p>
+      <p><a href="#tech" class="igsmall">back</a></p>
+    </td>
+  </tr>
+  <tr> 
+    <td colspan="2"> 
+      <hr>
+    </td>
+  </tr>
+  <tr> 
+    <td class="igtext" colspan="2" bgcolor="#B7F2FD"><span class="igtextbg"><a name="mw"></a></span><span class="igheader">Microwave 
+      engineering</span></td>
+  </tr>
+  <tr> 
+    <td class="igheader" colspan="2"> 
+      <p><a name="qprobe"></a> Q-band probe head <span class="igsmall">(ETH, 1999-2003)</span></p>
+      <p class="igsmall" align="center"><img src="mw/assembly2.jpg" width="608" height="168"></p>
+      <p class="igsmall">For the beginning the probe-head was designed to overcome 
+        the main disadvantages of the ER5106-QTE probe-head (Bruker): small sample 
+        size and a little bit low P-to-B1 conversion factor. The goal was reached 
+        (3mm tubes, 5ns pi/2 with 100 W power and strongly overcoupled cavity) 
+        and since 2000 a lot of experiments (including matching or decoupling 
+        ) were made by my colleagues using this probe. Look on Schweiger's group 
+        publications, take one where Q-band is mentioned, most probably this probe 
+        was exploited. Then cw and ENDOR options were included. At the end the 
+        probe-head almost as easy in use as Bruker's one, it has better sensitivity 
+        and stronger B1 at the same power; ENDOR performance is weaker than ER5106 
+        has, but note that in last case the conversion B2/Prf is extremely high! 
+        The people who was/is involved in the projects: toolmakers Willi Groth 
+        (retired recently) and Barbara Feuer (who take the baton) and electronics 
+        engineer Joerg Forrer who gave many valuable suggestions for the design. 
+        Recent <a href="../posters/porto03.pdf">poster</a> (Portoroz,2003). 3.01.2004.</p>
+    </td>
+  </tr>
+  <tr> 
+    <td class="igtext" colspan="2"><a href="#tech" class="igsmall">back</a></td>
+  </tr>
+  <tr> 
+    <td class="igtext" colspan="2"> 
+      <hr>
+    </td>
+  </tr>
+  <tr> 
+    <td class="igheader" colspan="2"><a name="mwex"></a>Microwave studio </td>
+  </tr>
+  <tr> 
+    <td class="igsmall" align="left" valign="top" colspan="2"> 
+      <p>This is a tool for high-frequency electromagnetic field computations. 
+        <a href="http://www.cst.de" target="_blank">MICROWAVE STUDIO (CST MWS)</a> 
+        has shape modeler, including adaptive mesh generator, and powerful time 
+        domain solver , as well as many useful utilities to deal with 3D field, 
+        S-parameters etc. 3.10.03</p>
+    </td>
+  </tr>
+  <tr align="left" valign="top"> 
+    <td class="igtext" colspan="2"> 
+      <div align="left"> </div>
+      <div align="left"> 
+        <table width="100" border="0" align="left">
+          <tr> 
+            <td><span class="igsmall"><img src="mw/circulator_03.gif" width="256" height="192" align="top" vspace="0" hspace="0"></span></td>
+          </tr>
+        </table>
+        <p align="left"><span class="igsmall">An educational example. H-plane 
+          Y-typethree port circulator. On the center there are two ferrite disks 
+          biased by a static magnetic field, as a consequence the structure shows 
+          a non-reciprocal behavior: a wave propagates in one </span><span class="igsmall">direction 
+          only</span></p>
+        <p>&nbsp;</p>
+      </div>
+    </td>
+  </tr>
+  <tr align="left" valign="top"> 
+    <td class="igtext" colspan="2"> 
+      <table width="100" border="0" align="left">
+        <tr> 
+          <td><span class="igsmall"><img src="mw/full_030126_4_05.gif" width="258" height="192" vspace="0" hspace="0" align="top"></span></td>
+        </tr>
+      </table>
+      <span class="igsmall">This </span> <span class="igsmall">is a real example. 
+      A Q-band cylindrical cavity which is for a couple of years in an operation 
+      in our group. The simulation shows a electric field distribution into the 
+      cavity:) and around :(</span></td>
+  </tr>
+  <tr> 
+    <td class="igtext" colspan="2"><a href="#tech">back</a> </td>
+  </tr>
+  <tr> 
+    <td class="igtext" colspan="2"> 
+      <hr>
+    </td>
+  </tr>
+  <tr> 
+    <td class="igheader" colspan="2"><a name="wprobe"></a>W-band probe head <span class="igsmall">(WIS, 
+      1998)</span> </td>
+  </tr>
+  <tr> 
+    <td class="igtext" colspan="2"> 
+      <p><img src="mw/wprobe.jpg" width="209" height="148" name="wprobe" vspace="5" hspace="10" align="left"><span class="igsmall">The 
+        tricks here were how to tune W-band transmission line (about 1 m long 
+        with several junctions) without network analyzer and what to change in 
+        small cylindrical cavity to make it transparent to rf field. 3.10.03</span></p>
+      <p>&nbsp;</p>
+      <p><a href="#tech" class="igsmall">back</a></p>
+    </td>
+  </tr>
+  <tr> 
+    <td class="igtext" colspan="2"> 
+      <hr>
+    </td>
+  </tr>
+  <tr> 
+    <td class="igheader" colspan="2" bgcolor="#B7F2FD"><a name="electronics"></a>Electronics 
+    </td>
+  </tr>
+  <tr> 
+    <td class="igtext" colspan="2"> 
+      <p><a name="sys2"></a><span class="igheader">Measuring system on PCI </span><span class="igsmall">(ETH, 
+        2003-)</span></p>
+      <p><img src="electronics/sys2s.jpg" width="351" height="248" align="left"><span class="igsmall"> 
+        This supposed to be a next generation of the acquisition systems for epr@ETH. 
+        PCI bus is chosen as a system integration bus and recent PCI boards are 
+        selected to fit the most demanding tasks in pulse EPR. One of such components 
+        is in operation already. It is a 2 GS/s real time averager (3) from Acqiris. 
+        It has dual-input with tunable gain and offset, 500 MHz bandwidth and 
+        it's able to accumulate up to 64k traces at once. An acquisition software 
+        is the Spectrometer Manager (<a href="http://www.esr.ethz.ch/specman/SpecMan.html">SpecMan</a>). 
+        In a next step we are going to to implement 1 GS/s PCI boards (7) and 
+        (8) which will provide two RF outputs and 12 pulse channels correspondingly. 
+        Recent <a href="../posters/denver03.pdf">poster</a> (Denver,2003). 3.01.04.</span></p>
+      <p><a href="#tech">back</a></p>
+    </td>
+  </tr>
+  <tr> 
+    <td class="igtext" colspan="2"> 
+      <hr>
+    </td>
+  </tr>
+  <tr> 
+    <td class="igheader" colspan="2"> 
+      <p><a name="prog"></a> Pulse programmer:<span class="igheader">ASIC+DSP</span><span class="igsmall"> 
+        (ETH, 1999-2003)</span></p>
+    </td>
+  </tr>
+  <tr> 
+    <td class="igtext" colspan="2"> 
+      <p class="igsmall"><img src="electronics/asictn.jpg" width="160" height="174" align="left" alt="5" border="0">We 
+        put a lot of efforts to design and build ourselves a modern pulse programmer. 
+        Jaap Shane, who was very enthusiastic about electronics, and Boris Glass 
+        designed an ASIC for the pulse EPR applications (see picture on the left). 
+        Then I was driving this project trying to get working the complete system: 
+        PC-Texas DSP-ASICs. The team: Joerg Forrer and Rene Tschaggelar (electronic 
+        engineers), Jurg Keller (programmer ). Finally I was able to record ESEEM 
+        and HYSCORE in <em>real time</em> (monotonically at about 1.5 kHz from 
+        the beginning of a experiment till its end) using this programmer. 3.10.03</p>
+      <p class="igsmall"><a href="#tech">back</a></p>
+    </td>
+  </tr>
+  <tr> 
+    <td class="igtext" colspan="2"> 
+      <hr>
+    </td>
+  </tr>
+  <tr> 
+    <td class="igtext" colspan="2"><a name="sysksu"></a><span class="igheader">Measuring 
+      system </span><span class="igsmall">(KSU, 1989-1992)</span></td>
+  </tr>
+  <tr> 
+    <td class="igtext" colspan="2"> 
+      <p><span class="igsmall"><img src="electronics/sysksu4s.jpg" width="269" height="153" align="left"></span><span class="igsmall">Old 
+        stuff but designed in a right way. I guess the similar system is still 
+        in operation in KSU at X-band, and most probably I will be able to run 
+        my one (Q-band, KSU) even now.The electrical/logical and mechanical specifications 
+        of the system were introduced by B. Kazakov and I.Motygullin (MRS, KSU). 
+        16-bit bi-directional data bus, (4+8) bits address space, 4 bits for slot 
+        address. 20 slots in crate, 16 out of them are programmable. Priority 
+        interrupt controller, crate controller, address decoder and link to ISA. 
+        Fully featured/very powerful system and what is even more important- it's 
+        simple enough to be build by non-engineer.</span></p>
+      <p><a href="#tech">back</a></p>
+      <p class="igsmall">&nbsp;</p>
+    </td>
+  </tr>
+  <tr> 
+    <td class="igtext" colspan="2"> 
+      <hr>
+    </td>
+  </tr>
+  <tr> 
+    <td class="igtext" colspan="2" bgcolor="#B7F2FD"><a name="programming"></a><span class="igheader">Programming</span> 
+      <span class="igsmall">(ETH, 2002-)</span></td>
+  </tr>
+  <tr> 
+    <td class="igtext" colspan="2"> 
+      <p><img src="programming/specman.jpeg" width="192" height="154" vspace="10" hspace="10" align="left"><span class="igsmall">SpecMan 
+        is a program which makes life (for users) easy:) Click <a href="http://www.esr.ethz.ch/specman/main.html">here</a> 
+        for further details. 3.10.03</span></p>
+      <p class="igsmall"><a href="#tech">back</a></p>
+    </td>
+  </tr>
+  <tr> 
+    <td class="igtext" colspan="2">&nbsp;</td>
+  </tr>
+  <tr> 
+    <td class="igtext" colspan="2">&nbsp;</td>
+  </tr>
+  <tr> 
+    <td class="igtext" colspan="2">&nbsp;</td>
+  </tr>
+</table>
+<br>
+<p>&nbsp;</p>
+</body>
+</html>

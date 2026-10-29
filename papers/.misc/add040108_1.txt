@@ -1,0 +1,47 @@
+From - Thu Jan  8 18:21:53 2004
+Received: from xfe2.d.ethz.ch ([192.168.36.11]) by EX3.d.ethz.ch with Microsoft SMTPSVC(5.0.2195.6713);
+	 Thu, 8 Jan 2004 17:54:30 +0100
+Received: from esr.phys.chem.ethz.ch ([129.132.218.88]) by xfe2.d.ethz.ch over TLS secured channel with Microsoft SMTPSVC(5.0.2195.6713);
+	 Thu, 8 Jan 2004 17:54:29 +0100
+Sender: mafe
+Message-ID: <3FFD8B44.F579E3BA@esr.phys.chem.ethz.ch>
+Date: Thu, 08 Jan 2004 17:54:28 +0100
+From: Matvey Fedin <fedin@esr.phys.chem.ethz.ch>
+X-Mailer: Mozilla 4.7 [en] (X11; I; SunOS 5.8 sun4u)
+X-Accept-Language: en
+MIME-Version: 1.0
+To: Igor Gromov <gromov@esr.phys.chem.ethz.ch>
+Subject: Re: reference?
+References: <3FFD85F8.1B61307B@esr.phys.chem.ethz.ch>
+Content-Type: text/plain; charset=koi8-r
+Content-Transfer-Encoding: 7bit
+Return-Path: fedin@esr.phys.chem.ethz.ch
+X-OriginalArrivalTime: 08 Jan 2004 16:54:30.0026 (UTC) FILETIME=[15331EA0:01C3D608]
+X-Mozilla-Status: 8011
+X-Mozilla-Status2: 00000000
+X-UIDL: AAQeAxNAAAgMVK2Ii2RiIKU0S1MWEflb
+
+Sorry...
+
+
+Journal   J. Chem. Phys.
+Title  APPLICATIONS OF N-PHOTON-INDUCED TRANSPARENCY....
+Scheduled Issue  15 Jan 2004
+First Author  FEDIN
+Second Author  KALIN
+Third Author  GROMOV
+Corresponding Author  PROF. ARTHUR SCHWEIGER
+
+Volume  120
+Issue  3
+Issue Date  15-JAN-04
+First Page  1361
+Total Pages  8
+
+
+MS Received at AIP  October 23, 2003
+MS Proof to Author  November 20, 2003
+Author's Corrections Rec'd  November 25, 2003
+Released to Printer  January 7, 2004
+
+

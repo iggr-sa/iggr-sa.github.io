@@ -1,0 +1,46 @@
+
+Circulator
+----------
+
+General Description
+
+   In this example the characteristic behavior of an H-plane three port 
+   circulator is presented by the calculation of the corresponding S-parameters.
+   The structure is given by the rotation domain, containing two ferrite disks 
+   embedded in a teflon cylinder, as well as three rectangular waveguides for 
+   the in and out coupling of the fundamental TE mode. In case that the ferrite 
+   material is biased by a static magnetic field, the circulator shows a 
+   non-reciprocal behavior, which is typical for microwave devices using
+   gyrotropic media. The resulting asymmetric field distribution is visualized 
+   by help of 3D field monitors, in particular the powerflow and current density. 
+
+Structure Generation
+
+   The circulator is a waveguide device and thus the corresponding waveguide
+   template is chosen to define the PEC boundary and background material as 
+   well as the units settings. The main part of the circulator is constructed 
+   with the definition of a curve and its extrude functionality, while all
+   other elements are modelled as solid shapes, applying mirror and rotation 
+   transformations. Using the local coordinate system offers the possibility 
+   to create the different parts relative to each other.
+   The anisotropic and dispersive material character of the biased ferrite is
+   defined by the corresponding layer parameters, here referred to the Gauss 
+   system.  
+
+Solver Setup
+
+   Three waveguide ports are defined at the ends of the given waveguides to 
+   perform the S-parameter calculation. The excitation signal at port No.1 is
+   a gaussian shaped pulse referring to the frequency range from 13 to 17 GHz. 
+   In order to get an additional visualization of the non-reciprocal wave 
+   propagation several 3D field monitors (electric and magnetic field, powerflow,
+   current density) are defined at the operation frequency of 15 GHz.
+
+Post Processing
+
+   The resulting time signals and the corresponding scattering parameters
+   of the transient calculation are listed in the navigation tree in the
+   folder '1D Results'. Regarding the absolute value of the S-parameters
+   the asymmetric coupling of the field energy from port No.1 to port No.2 
+   is obvious. This result can be visualized more impressively by plotting
+   the monitored 3D fields, which can be found in the folder '2D/3D Results'.

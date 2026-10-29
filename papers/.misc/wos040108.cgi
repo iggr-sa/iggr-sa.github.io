@@ -1,0 +1,427 @@
+FN ISI Export Format
+VR 1.0
+PT Journal
+AU Kalin, M
+   Gromov, I
+   Schweiger, A
+TI The continuous wave electron paramagnetic resonance experiment
+   revisited
+SO JOURNAL OF MAGNETIC RESONANCE
+TC 1
+BP 166
+EP 182
+PG 17
+JI J. Magn. Reson.
+PY 2003
+PD FEB
+VL 160
+IS 2
+GA 656YL
+J9 J MAGN RESON
+UT ISI:000181638600014
+ER
+
+PT Journal
+AU Harmer, J
+   Van Doorslaer, S
+   Gromov, I
+   Schweiger, A
+TI Corrin nitrogens and remote dimethylbenzimidazole nitrogen
+   interactions in COb(II)alamin studied with HYSCORE at X- and Q-
+   band
+SO CHEMICAL PHYSICS LETTERS
+TC 2
+BP 8
+EP 16
+PG 9
+JI Chem. Phys. Lett.
+PY 2002
+PD MAY 24
+VL 358
+IS 1-2
+GA 564GH
+J9 CHEM PHYS LETT
+UT ISI:000176306300002
+ER
+
+PT Journal
+AU Harmer, J
+   Van Doorslaer, S
+   Gromov, I
+   Broring, M
+   Jeschke, G
+   Schweiger, A
+TI A pulse EPR and ENDOR investigation of the electronic structure
+   of a sigma-carbon-bonded cobalt(IV) corrole
+SO JOURNAL OF PHYSICAL CHEMISTRY B
+TC 5
+BP 2801
+EP 2811
+PG 11
+JI J. Phys. Chem. B
+PY 2002
+PD MAR 14
+VL 106
+IS 10
+GA 530QA
+J9 J PHYS CHEM B
+UT ISI:000174369400049
+ER
+
+PT Journal
+AU Calle, C
+   Eichel, RA
+   Finazzo, C
+   Forrer, J
+   Granwehr, J
+   Gromov, I
+   Groth, W
+   Harmer, J
+   Kalin, M
+   Lammler, W
+   Liesum, L
+   Madi, Z
+   Stoll, S
+   Van Doorslaer, S
+   Schweiger, A
+TI Electron Paramagnetic Resonance spectroscopy
+SO CHIMIA
+TC 1
+BP 763
+EP 766
+PG 4
+JI Chimia
+PY 2001
+VL 55
+IS 10
+GA 489UJ
+J9 CHIMIA
+UT ISI:000172010500004
+ER
+
+PT Journal
+AU Granstrem, O
+   Gappoeva, M
+   Gromov, I
+   Izykenova, G
+   Dambinova, S
+TI Alteration of NMDA receptors in experimental ischemia
+SO JOURNAL OF NEUROCHEMISTRY
+TC 0
+BP 73
+EP 73
+PG 1
+JI J. Neurochem.
+PY 2001
+PD SEP
+VL 78
+SU 1
+GA 469AF
+J9 J NEUROCHEM
+UT ISI:000170789800259
+ER
+
+PT Journal
+AU Richards, JH
+   Fernandez, CO
+   Cricco, JA
+   Slutter, CE
+   Gray, HB
+   Vila, AJ
+   Gromov, I
+   Epel, B
+   Goldfarb, D
+   Pecht, I
+TI Axial ligand modulation of a low-lying excited state in the
+   thermus Cu-A domain
+SO JOURNAL OF INORGANIC BIOCHEMISTRY
+TC 0
+BP 400
+EP 400
+PG 1
+JI J. Inorg. Biochem.
+PY 2001
+PD AUG
+VL 86
+IS 1
+GA 463FW
+J9 J INORG BIOCHEM
+UT ISI:000170467300768
+ER
+
+PT Journal
+AU Slutter, CE
+   Bardhan, S
+   Di Bilio, AJ
+   Immoos, C
+   Hill, M
+   Gromov, I
+   Epel, B
+   Goldfarb, D
+   Pecht, I
+   Gray, HB
+   Richards, JH
+TI Characterization of methionine 160 axial ligand mutants from a
+   soluble Cu-A domain from cytochrome ba3 of thermus thermophilus
+SO JOURNAL OF INORGANIC BIOCHEMISTRY
+TC 0
+BP 435
+EP 435
+PG 1
+JI J. Inorg. Biochem.
+PY 2001
+PD AUG
+VL 86
+IS 1
+GA 463FW
+J9 J INORG BIOCHEM
+UT ISI:000170467300836
+ER
+
+PT Journal
+AU Slutter, CE
+   Gromov, I
+   Epel, B
+   Pecht, I
+   Richards, JH
+   Goldfarb, D
+TI Pulsed EPR/ENDOR characterization of perturbations of the Cu-A
+   center ground state by axial methionine ligand mutations
+SO JOURNAL OF THE AMERICAN CHEMICAL SOCIETY
+TC 10
+BP 5325
+EP 5336
+PG 12
+JI J. Am. Chem. Soc.
+PY 2001
+PD JUN 6
+VL 123
+IS 22
+GA 438ET
+J9 J AM CHEM SOC
+UT ISI:000169041300020
+ER
+
+PT Journal
+AU Gromov, I
+   Shane, J
+   Forrer, J
+   Rakhmatoullin, R
+   Rozentzwaig, Y
+   Schweiger, A
+TI A Q-band pulse EPR/ENDOR spectrometer and the implementation of
+   advanced one- and two-dimensional pulse EPR methodology
+SO JOURNAL OF MAGNETIC RESONANCE
+TC 10
+BP 196
+EP 203
+PG 8
+JI J. Magn. Reson.
+PY 2001
+PD APR
+VL 149
+IS 2
+GA 431JN
+J9 J MAGN RESON
+UT ISI:000168628200003
+ER
+
+PT Journal
+AU Gromov, I
+   Schweiger, A
+TI Multiphoton resonances in pulse EPR
+SO JOURNAL OF MAGNETIC RESONANCE
+TC 7
+BP 110
+EP 121
+PG 12
+JI J. Magn. Reson.
+PY 2000
+PD SEP
+VL 146
+IS 1
+GA 353HA
+J9 J MAGN RESON
+UT ISI:000089267700012
+ER
+
+PT Journal
+AU Gromov, I
+   Marchesini, A
+   Farver, O
+   Pecht, I
+   Goldfarb, D
+TI Azide binding to the trinuclear copper center in laccase and
+   ascorbate oxidase
+SO EUROPEAN JOURNAL OF BIOCHEMISTRY
+TC 9
+BP 820
+EP 830
+PG 11
+JI Eur. J. Biochem.
+PY 1999
+PD DEC
+VL 266
+IS 3
+GA 268UH
+J9 EUR J BIOCHEM
+UT ISI:000084433600013
+ER
+
+PT Journal
+AU Gromov, I
+   Krymov, V
+   Manikandan, P
+   Arieli, D
+   Goldfarb, D
+TI A W-band pulsed ENDOR spectrometer: Setup and application to
+   transition metal centers
+SO JOURNAL OF MAGNETIC RESONANCE
+TC 26
+BP 8
+EP 17
+PG 10
+JI J. Magn. Reson.
+PY 1999
+PD JUL
+VL 139
+IS 1
+GA 217BX
+J9 J MAGN RESON
+UT ISI:000081480600002
+ER
+
+PT Journal
+AU Slutter, CE
+   Gromov, I
+   Richards, JH
+   Pecht, I
+   Goldfarb, D
+TI Mutations of the weak axial ligand in the Thermus Cu-A center
+   modulates its electronic structure
+SO JOURNAL OF THE AMERICAN CHEMICAL SOCIETY
+TC 9
+BP 5077
+EP 5078
+PG 2
+JI J. Am. Chem. Soc.
+PY 1999
+PD JUN 2
+VL 121
+IS 21
+GA 202ZG
+J9 J AMER CHEM SOC
+UT ISI:000080681900019
+ER
+
+PT Journal
+AU Shane, JJ
+   Gromov, I
+   Vega, S
+   Goldfarb, D
+TI A versatile pulsed x-band ENDOR spectrometer
+SO REVIEW OF SCIENTIFIC INSTRUMENTS
+TC 14
+BP 3357
+EP 3364
+PG 8
+JI Rev. Sci. Instrum.
+PY 1998
+PD SEP
+VL 69
+IS 9
+GA 119ML
+J9 REV SCI INSTR
+UT ISI:000075900200045
+ER
+
+PT Journal
+AU Vikhnin, VS
+   Gromov, IA
+   Orlinskii, SB
+   Rakhmatullin, RM
+   Rozentsvaig, YK
+TI Spin-lattice relaxation characteristics of Yb3+ ions in
+   phosphate glasses (vol 37, pg 1510, 1995)
+SO FIZIKA TVERDOGO TELA
+TC 0
+BP 3196
+EP 3196
+PG 1
+JI Fiz. Tverd. Tela
+PY 1995
+PD OCT
+VL 37
+IS 10
+GA TP395
+J9 FIZ TVERD TELA
+UT ISI:A1995TP39500039
+ER
+
+PT Journal
+AU GROMOV, IA
+   ORLINSKY, SB
+   RAKHMATULLIN, RM
+TI A SIMPLE 3-CENTIMETER BAND PULSE OSCILLATOR FOR AN ECHO-
+   SPECTROMETER
+SO INSTRUMENTS AND EXPERIMENTAL TECHNIQUES
+TC 0
+BP 298
+EP 299
+PG 2
+JI Instrum. Exp. Tech.
+PY 1992
+PD MAR-APR
+VL 35
+IS 2
+PN 2
+GA KF156
+J9 INSTRUM EXP TECH-ENGL TR
+UT ISI:A1992KF15600009
+ER
+
+PT Journal
+AU GROMOV, IA
+   ORLINSKII, SB
+   RAKHMATULLIN, RM
+TI 3-CM-BAND LOOP GAP RESONATOR FOR SPIN-ECHO SPECTROMETER AND
+   LASER EPR SPECTROMETER
+SO INSTRUMENTS AND EXPERIMENTAL TECHNIQUES
+TC 0
+BP 1104
+EP 1106
+PG 3
+JI Instrum. Exp. Tech.
+PY 1991
+PD SEP-OCT
+VL 34
+IS 5
+PN 2
+GA HU512
+J9 INSTRUM EXP TECH-ENGL TR
+UT ISI:A1991HU51200004
+ER
+
+PT Journal
+AU ANTIPIN, AA
+   BULKA, GR
+   GROMOV, IA
+   ORLINSKII, SB
+   RAKHMATULLIN, RM
+TI OBSERVATION OF ELECTROACOUSTIC MICROWAVE ECHO IN THE SILICA
+   CERAMICS
+SO FIZIKA TVERDOGO TELA
+TC 0
+BP 237
+EP 240
+PG 4
+JI Fiz. Tverd. Tela
+PY 1989
+PD APR
+VL 31
+IS 4
+GA U4326
+J9 FIZ TVERD TELA
+UT ISI:A1989U432600042
+ER
+

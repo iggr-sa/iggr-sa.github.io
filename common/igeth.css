@@ -1,0 +1,33 @@
+.iggreth 	{ font-family: Verdana, Arial, Helvetica, sans-serif; text-decoration: none}
+.igmenu 	{ font-family: Verdana, Arial, Helvetica, sans-serif; font-size: small; 	font-style: normal; font-weight: bolder; text-decoration: none; color: #000000; ; font-variant: normal}
+.igtext 	{ font-family: Verdana, Arial, Helvetica, sans-serif; font-size: x-small; 	font-style: normal; line-height: normal; font-weight: normal; font-variant: normal; text-transform: none; }
+.igheader 	{ font-family: Verdana, Arial, Helvetica,  sans-serif; font-size: x-small; 	font-style: normal; vertical-align: baseline; margin-top: auto; margin-right: auto; margin-bottom: auto; margin-left: auto; font-weight: bold}
+.igsmall 	{
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: x-small;
+	font-weight: normal;
+	text-decoration: none;
+	color: #0;
+} 
+.igverysmall{
+	font-family: Verdana, Arial, Helvetica,  sans-serif;
+	font-size: xx-small;
+	text-decoration: none;
+}
+.iglink 	{ font-family: Verdana, Arial, Helvetica,  sans-serif; font-size: x-small; 	color: #000000; font-weight: bold; line-height: normal; font-style: normal;   text-align: left; vertical-align: baseline;  position: relative; visibility: visible;  clip:    rect(   ); font-variant: normal; text-transform: none; text-decoration: none; background-color: #C9E4FE}
+.igtextbg 	{ font-family: Verdana, Arial, Helvetica,  sans-serif; font-size: medium; 	font-style: normal; font-weight: normal; background-color: #B7F2FD}
+.igtitl 	{ font-family: Verdana, Arial, Helvetica,  sans-serif; font-size: medium}
+.igit 		{
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: x-small;
+	font-style: italic;
+	text-decoration: none;
+}
+.igitb 		{ font-family: Verdana, Arial, Helvetica,  sans-serif; font-size: small; 	font-style: italic; font-weight: bold}
+.igtextb 	{
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: x-small;
+	font-weight: bolder;
+	color: #000000;
+	text-decoration: none;
+}

@@ -1,0 +1,30 @@
+.ksp_norm {
+	FONT-WEIGHT: normal; FONT-SIZE: small; TEXT-TRANSFORM: none; FONT-STYLE: normal; FONT-FAMILY: "Times New Roman", Times, serif; FONT-VARIANT: normal
+}
+.ksp_small {
+	FONT-SIZE: xx-small; FONT-STYLE: normal; FONT-FAMILY: "Times New Roman", Times, serif
+}
+.ksp_link {
+	FONT-WEIGHT: bolder; FONT-SIZE: x-small; COLOR: #000000; FONT-STYLE: normal; FONT-FAMILY: "Times New Roman", Times, serif; BACKGROUND-COLOR: #f28b46; TEXT-DECORATION: none
+}
+.ksp_linknbg {
+	FONT-SIZE: small; FONT-STYLE: normal; FONT-FAMILY: "Times New Roman", Times, serif; TEXT-DECORATION: none
+; color: #0000FF
+; background-color: #FFFFFF
+}
+
+.font {
+	font-family: "Times New Roman", Times, serif;
+	font-size: 16px;
+}
+a:hover {
+	color: #FF6666;
+	text-decoration: underline;
+}
+a {
+	color: #000000;
+	text-decoration: none;
+}
+p {
+	text-align: justify;
+}

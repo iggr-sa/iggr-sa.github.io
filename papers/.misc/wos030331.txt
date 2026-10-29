@@ -1,0 +1,91 @@
+  Harmer J, Van Doorslaer S, Gromov I, et al. 
+  Corrin nitrogens and remote dimethylbenzimidazole nitrogen interactions in 
+  COb(II)alamin studied with HYSCORE at X- and Q-band
+  CHEM PHYS LETT 358 (1-2): 8-16 MAY 24 2002 
+
+  Harmer J, Van Doorslaer S, Gromov I, et al. 
+  A pulse EPR and ENDOR investigation of the electronic structure of a 
+  sigma-carbon-bonded cobalt(IV) corrole
+  J PHYS CHEM B 106 (10): 2801-2811 MAR 14 2002 
+
+
+  Calle C, Eichel RA, Finazzo C, et al. 
+  Electron Paramagnetic Resonance spectroscopy
+  CHIMIA 55 (10): 763-766 2001 
+
+
+   Richards JH, Fernandez CO, Cricco JA, et al. 
+  Axial ligand modulation of a low-lying excited state in the thermus Cu-A 
+domain
+  J INORG BIOCHEM 86 (1): 400-400 AUG 2001 
+
+
+   Slutter CE, Bardhan S, Di Bilio AJ, et al. 
+  Characterization of methionine 160 axial ligand mutants from a soluble Cu-A 
+  domain from cytochrome ba3 of thermus thermophilus
+  J INORG BIOCHEM 86 (1): 435-435 AUG 2001 
+
+
+   Slutter CE, Gromov I, Epel B, et al. 
+  Pulsed EPR/ENDOR characterization of perturbations of the Cu-A center ground 
+  state by axial methionine ligand mutations
+  J AM CHEM SOC 123 (22): 5325-5336 JUN 6 2001 
+
+
+   Gromov I, Shane J, Forrer J, et al. 
+  A Q-band pulse EPR/ENDOR spectrometer and the implementation of advanced one- 
+  and two-dimensional pulse EPR methodology
+  J MAGN RESON 149 (2): 196-203 APR 2001 
+
+
+   Gromov I, Schweiger A 
+  Multiphoton resonances in pulse EPR
+  J MAGN RESON 146 (1): 110-121 SEP 2000 
+
+
+   Gromov I, Marchesini A, Farver O, et al. 
+  Azide binding to the trinuclear copper center in laccase and ascorbate oxidase
+  EUR J BIOCHEM 266 (3): 820-830 DEC 1999 
+
+
+   Gromov I, Krymov V, Manikandan P, et al. 
+  A W-band pulsed ENDOR spectrometer: Setup and application to transition metal 
+  centers
+  J MAGN RESON 139 (1): 8-17 JUL 1999 
+
+
+   Slutter CE, Gromov I, Richards JH, et al. 
+  Mutations of the weak axial ligand in the Thermus Cu-A center modulates its 
+  electronic structure
+  J AM CHEM SOC 121 (21): 5077-5078 JUN 2 1999 
+
+
+   Shane JJ, Gromov I, Vega S, et al. 
+  A versatile pulsed x-band ENDOR spectrometer
+  REV SCI INSTRUM 69 (9): 3357-3364 SEP 1998 
+
+
+   Vikhnin VS, Gromov IA, Orlinskii SB, et al. 
+  Spin-lattice relaxation characteristics of Yb3+ ions in phosphate glasses (vol 
+  37, pg 1510, 1995)
+  FIZ TVERD TELA+ 37 (10): 3196-3196 OCT 1995 
+
+
+   GROMOV IA, ORLINSKY SB, RAKHMATULLIN RM 
+  A SIMPLE 3-CENTIMETER BAND PULSE OSCILLATOR FOR AN ECHO-SPECTROMETER
+  INSTRUM EXP TECH+ 35 (2): 298-299 Part 2 MAR-APR 1992 
+
+
+   GROMOV IA, ORLINSKII SB, RAKHMATULLIN RM 
+  3-CM-BAND LOOP GAP RESONATOR FOR SPIN-ECHO SPECTROMETER AND LASER EPR 
+  SPECTROMETER
+  INSTRUM EXP TECH+ 34 (5): 1104-1106 Part 2 SEP-OCT 1991 
+
+
+   ANTIPIN AA, BULKA GR, GROMOV IA, et al. 
+  OBSERVATION OF ELECTROACOUSTIC MICROWAVE ECHO IN THE SILICA CERAMICS
+  FIZ TVERD TELA+ 31 (4): 237-240 APR 1989 
+
+
+
+ 
