@@ -1,9 +1,10 @@
 
 <html>
 <head>
-<title>Страница закрытой области</title>
+<title>пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅ</title>
 <meta http-equiv="Content-Type" content="text/html; charset=windows-1251">
 <link href="../common/ksp.css" rel="stylesheet" type="text/css">
+<link href="../common/page-layout.css" rel="stylesheet" type="text/css">
 </head>
 
 <body text="#000000" vlink="#000000" class="font">
@@ -12,7 +13,7 @@
 	$current_dir='20040610Innertal';
 	$dir = opendir($current_dir);
 	
-	echo "Текущий каталог: $current_dir: <br />";
+	echo "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅ: $current_dir: <br />";
 	while( $file=readdir($dir) )
 		{
 		  //echo "$file";

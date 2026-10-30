@@ -1,0 +1,4 @@
+body {
+  margin-left: clamp(8px, 1.5vw, 24px) !important;
+  margin-right: clamp(8px, 1.5vw, 24px) !important;
+}
